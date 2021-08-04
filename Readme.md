@@ -26,3 +26,10 @@ Once we have a starting point for plotting data we can easily expand our knowled
 
 
 
+### Certificado
+
+![](C:\Users\EK165VK\OneDrive - EY\Documentos\Treinamentos\Data Visualization with Python for Beginners\UC-5c842eab-43c4-4ad3-a979-e6dfac929bb8_certificado.jpg)
+
+### Opinião
+
+Curso curto e introdutório de apresentando algumas funções do matplotlib no Python, acredito que os gráficos foram construidos com a finalidade de explorar as customizaçõs oferecidas pela biblioteca, já a parte de análise dos gráficos e senso estético foram deixadas de lado.
