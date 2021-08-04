@@ -26,7 +26,7 @@ Once we have a starting point for plotting data we can easily expand our knowled
 
 ### Opinião
 
-Curso curto e introdutório de apresentando algumas funções do matplotlib no Python, acredito que os gráficos foram construidos com a finalidade de explorar as customizaçõs oferecidas pela biblioteca, já a parte de análise dos gráficos e senso estético foram deixadas de lado.
+Curso curto e introdutório apresentando algumas funções do matplotlib no Python, acredito que os gráficos foram construídos com a finalidade de explorar as customizações oferecidas pela biblioteca, já a parte de análise dos gráficos e senso estético foram deixadas de lado. De toda forma, inserir setas com o <code>arrowprops</code> e conhecer outras possibilidades de escalas com o <code>plt.xscale</code> eram desconhecidos por mim até então.
 
 ### Certificado
 
